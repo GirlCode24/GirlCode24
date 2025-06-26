@@ -18,6 +18,7 @@ Beautiful and mindful UIs
 
 **Soon:** powerful backend services that bring it all to life
 
+
 **🌟 What Drives Me**
 
 I believe that:
@@ -34,6 +35,7 @@ Every line of code can become a lighthouse for someone in a storm 🌊
 🌊 I feel most connected to myself when I'm staring at the ocean, especially when tired.
 **✨ Fun Fact:** I’m an introverted-extrovert who thrives on warmth, small joys, and deep human connections.
 
+
 **🛠️ Tech & Tools I’m Exploring**
 **💻 Languages:** HTML, CSS, JavaScript, TypeScript, C#, VB.NET #beginner, Java #beginner
 
@@ -47,6 +49,7 @@ Every line of code can become a lighthouse for someone in a storm 🌊
 
 **🛠️ Tools:** Git & GitHub, VS Code, Figma, Canva, Google Sheets
 
+
 **📌 Current Projects**
 I’m currently experimenting with:
 
@@ -57,5 +60,6 @@ I’m currently experimenting with:
 🔌 Backend structures for journaling and growth tools
 
 💬 Some of these ideas are still being shaped — I may reveal more soon!
+
 **📫 Let’s Connect**
 <p align="left"> • <a href="mailto:janetquayenaa@gmail.com">📩 Email</a> • 🌟 Portfolio (Coming Soon) </p>
