@@ -1,7 +1,7 @@
-<h1 align="center">Hi there 👋, I'm Janet Quaye</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Game+Dev+Explorer;Creative+Technologist+%7C+Healing+through+Code;ALX+Learner+%7C+;Currently+Exploring+3D+and+2D+Game+Developing+;and+Backend;Passionate+about+People%2C+Stories%2C+Psychology" alt="Typing SVG" /> </p>
+<h1 align="center">Hi there 👋, I'm Janet Quaye</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Game+Dev+Explorer;Creative+Technologist+%7C+Healing+through+Code;Currently+Exploring+3D+and+2D+Game+Development+;and+Backend+Development+As+Well;Passionate+about+People%2C+Stories%2C+Psychology" alt="Typing SVG" /> </p>
 
-###👩‍💻 About Me
-I am a learner of the ALX Software Engineering program with a heart for tech that heals, inspires, and empowers.
+###👩‍💻 About Me:
+I am a Software Engineer with a heart for tech that heals, inspires, and empowers.
 
 💡 I started with software engineering because I wanted to blend logic and creativity to make tools and experiences that help people reflect, grow, and feel understood — especially in the mental health space.
 
