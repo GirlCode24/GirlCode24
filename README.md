@@ -44,28 +44,8 @@ Every line of code can become a lighthouse for someone in a storm 🌊
 
 **🛠️ Tools:** Git & GitHub, VS Code, Figma, Canva, Google Sheets
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 **📌 Current Projects**
+
 I’m currently experimenting with:
 
 🧠 Game mechanics & storytelling concepts for therapeutic narrative games
