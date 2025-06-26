@@ -9,9 +9,9 @@ I am a **Software Engineer** with a growing focus on **game development and crea
 🎮 I'm passionate about game development, psychology, and storytelling. Inspired by games like Life is Strange and Celeste, I aim to create interactive narratives and tools that feel emotionally safe and deeply human.
 
 **🚀 I love crafting:**
-Therapeutic games (2D & 3D)
-Interactive, reflective web apps
-Beautiful and mindful UIs
+Therapeutic games (2D & 3D),
+Interactive and reflective web apps
+,Beautiful and mindful UIs
 **Soon:** powerful backend services that bring it all to life
 
 **🌟 What Drives Me**
