@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Janet Quaye</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineer+%7C+Game+Dev+Explorer;Creative+Technologist+%7C+Healing+through+Code;ALX+Learner+%7C+Currently+Exploring+3D+and+Backend;Passionate+about+People%2C+Stories%2C+Psychology" alt="Typing SVG" /> </p>
+<h1 align="center">Hi there 👋, I'm Janet Quaye</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Game+Dev+Explorer;Creative+Technologist+%7C+Healing+through+Code;ALX+Learner+%7C+Currently+Exploring+3D+and+Backend;Passionate+about+People%2C+Stories%2C+Psychology" alt="Typing SVG" /> </p>
 
 ###👩‍💻 About Me
 I am a learner of the ALX Software Engineering program with a heart for tech that heals, inspires, and empowers.
@@ -51,4 +51,4 @@ I’m currently experimenting with:
 
 💬 Some of these ideas are still being shaped — I may reveal more soon!
 📫 Let’s Connect
-<p align="left"> • <a href="mailto:janetquaye1@icloud.com / janetquayenaa@gmail.com">📩 Email</a> • 🌟 Portfolio (Coming Soon) </p>
+<p align="left"> • <a href="mailto:janetquayenaa@gmail.com">📩 Email</a> • 🌟 Portfolio (Coming Soon) </p>
