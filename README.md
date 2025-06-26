@@ -18,7 +18,6 @@ Beautiful and mindful UIs
 
 **Soon:** powerful backend services that bring it all to life
 
-
 **🌟 What Drives Me**
 
 I believe that:
@@ -35,8 +34,8 @@ Every line of code can become a lighthouse for someone in a storm 🌊
 🌊 I feel most connected to myself when I'm staring at the ocean, especially when tired.
 **✨ Fun Fact:** I’m an introverted-extrovert who thrives on warmth, small joys, and deep human connections.
 
-
 **🛠️ Tech & Tools I’m Exploring**
+
 **💻 Languages:** HTML, CSS, JavaScript, TypeScript, C#, VB.NET #beginner, Java #beginner
 
 **🧠 Concepts:** OOP, DOM Manipulation, Game Logic, UX Psychology, Functional Programming
@@ -48,6 +47,26 @@ Every line of code can become a lighthouse for someone in a storm 🌊
 **🧪 Currently Learning:** React, APIs, Testing with Jest
 
 **🛠️ Tools:** Git & GitHub, VS Code, Figma, Canva, Google Sheets
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 **📌 Current Projects**
