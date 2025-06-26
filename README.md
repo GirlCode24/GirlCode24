@@ -10,11 +10,8 @@ I am a **Software Engineer** with a growing focus on **game development and crea
 
 **🚀 I love crafting:**
 Therapeutic games (2D & 3D)
-
 Interactive, reflective web apps
-
 Beautiful and mindful UIs
-
 **Soon:** powerful backend services that bring it all to life
 
 **🌟 What Drives Me**
