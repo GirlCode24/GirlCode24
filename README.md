@@ -19,6 +19,7 @@ Beautiful and mindful UIs
 **Soon:** powerful backend services that bring it all to life
 
 **🌟 What Drives Me**
+
 I believe that:
 
 Tech should feel like a soft place to land 🧠💛
@@ -35,10 +36,15 @@ Every line of code can become a lighthouse for someone in a storm 🌊
 
 **🛠️ Tech & Tools I’m Exploring**
 **💻 Languages:** HTML, CSS, JavaScript, TypeScript, C#, VB.NET #beginner, Java #beginner
+
 **🧠 Concepts:** OOP, DOM Manipulation, Game Logic, UX Psychology, Functional Programming
+
 **🎮 Game Dev Stack:** Unity (2D + 3D), C#, Visual Scripting, Cinemachine
+
 **🌐 Starting Soon:** Backend (Node.js, Express, MongoDB)
+
 **🧪 Currently Learning:** React, APIs, Testing with Jest
+
 **🛠️ Tools:** Git & GitHub, VS Code, Figma, Canva, Google Sheets
 
 **📌 Current Projects**
