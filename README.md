@@ -43,7 +43,7 @@ I believe that:
 ## 🛠️ Tech & Tools I’m Exploring
 
 **💻 Languages:**  
-HTML, CSS, JavaScript, TypeScript, C#, VB.NET #beginner, Java #beginner
+HTML, CSS, JavaScript, React, TypeScript, C#, VB.NET #beginner, Java #beginner
 
 **🧠 Concepts:**  
 OOP, DOM Manipulation, Game Logic, UX Psychology, Functional Programming
@@ -58,7 +58,7 @@ Backend (Node.js, Express, MongoDB)
 React, APIs, Testing with Jest
 
 **🛠️ Tools:**  
-Git & GitHub, VS Code, Figma, Canva, Google Sheets
+Git & GitHub, VS Code, Microsoft Visual Studio, Figma, Canva, Google Sheets
 
 ---
 
@@ -68,7 +68,8 @@ I’m currently experimenting with:
 
 - 🧠 Game mechanics & storytelling concepts for therapeutic narrative games  
 - 🧩 Daily reflection apps with points and progress tracking  
-- 🔌 Backend structures for journaling and growth tools  
+- 🔌 Backend structures for journaling and growth tools
+- 🚀 A rocket booster game with the rocket avoiding obstacles and landing successfully
 
 > 💬 Some of these ideas are still being shaped — I may reveal more soon!
 
