@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me
 
-I am a **Software Engineer** with a growing focus on **game development and creative technology**, with a heart for tech that heals, inspires, and empowers.
+I am a **Software Engineer** with a growing focus on **Game Development and creative technology**, with a heart for tech that heals, inspires, and empowers.
 
 💡 I started with software engineering because I wanted to blend logic and creativity to make tools and experiences that help people reflect, grow, and feel understood — especially in the mental health space.
 
